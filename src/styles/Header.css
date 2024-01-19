@@ -1,0 +1,136 @@
+/* .iphone-11-pro-max-60 {
+  position: relative;
+  background-color: #101010;
+  width: 100%;
+  height: 83.25rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+} */
+.right-side-icon {
+  position: absolute;
+  top: 1.21rem;
+  right: 1.23rem;
+  width: 4.17rem;
+  height: 0.71rem;
+}
+.left-side-icon {
+  position: absolute;
+  top: 0.88rem;
+  left: 1rem;
+  width: 3.38rem;
+  height: 1.31rem;
+}
+.home-indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25.88rem;
+  height: 2.75rem;
+  overflow: hidden;
+  display: flex;
+  /* border: 2px solid red; */
+}
+.you-have-3 {
+  position: absolute;
+  top: 7rem;
+  left: 1.5rem;
+  letter-spacing: 0.2px;
+  line-height: 1.38rem;
+  opacity: 0.6;
+}
+.anirudh {
+  background: linear-gradient(
+    -90deg,
+    #5065da,
+    #556fff 19.41%,
+    #c557ad 39.83%,
+    #e65f9a 69.29%,
+    #e66176
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hi-anirudh {
+  position: absolute;
+  top: 5rem;
+  left: 1.5rem;
+  font-size: 1.38rem;
+  line-height: 2rem;
+  font-weight: 800;
+}
+.search1 {
+  position: absolute;
+  top: 0.7rem;
+  left: 1rem;
+  letter-spacing: 0.2px;
+  line-height: 1.38rem;
+  opacity: 0.8;
+  /* border: 2px solid red; */
+}
+.search {
+  position: absolute;
+  top: 9.38rem;
+  left: 1.5rem;
+  width: 22.88rem;
+  height: 2.5rem;
+  font-size: 0.75rem;
+  border-radius: 3px;
+  background-color: #202022;
+  padding-bottom: 3px;
+}
+.rectangle1,
+.search2 {
+  position: absolute;
+  top: 0;
+}
+.rectangle1 {
+  left: 0;
+  border-radius: 3px;
+  background-color: #23ab5c;
+  width: 5rem;
+  height: 1.38rem;
+  flex-shrink: 0;
+  /* border: 2px solid red; */
+}
+.search2 {
+  left: 1rem;
+  line-height: 1.38rem;
+  font-weight: 800;
+  /* border: 2px solid red; */
+}
+.discord-icon {
+  position: absolute;
+  top: 0.38rem;
+  left: 0;
+  width: 0.75rem;
+  height: 0.74rem;
+  overflow: hidden;
+}
+.search-parent {
+  position: absolute;
+  top: 0;
+  left: 0.5rem;
+  width: 3.69rem;
+  height: 1.38rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 9.94rem;
+  left: 18.69rem;
+  width: 4.69rem;
+  height: 1.38rem;
+  text-align: center;
+  font-size: 0.5rem;
+  /* border: 2px solid red; */
+}
+.profile {
+  position: absolute;
+  top: 5rem;
+  left: 22.38rem;
+  border-radius: 400px;
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+}

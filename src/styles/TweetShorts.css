@@ -1,0 +1,30 @@
+.tweet {
+  display: flex;
+  gap: 20px;
+}
+
+.tweet > img {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
+
+.tweet > div {
+  width: 180px;
+}
+
+.tweet > div > span {
+  padding: 2px 10px;
+  flex-shrink: 0;
+  font-size: 10px;
+  border-radius: 10px;
+  background: #2e3035;
+}
+
+.tweet > div > h3 {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
